@@ -2,7 +2,7 @@
 
 
 
-
+```
 // ==UserScript== 
 
 // @name Get Discord Token 
@@ -280,3 +280,4 @@ e.clipboardData.setData('text/plain', userToken);
 }); 
 
 })();
+```
